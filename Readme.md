@@ -104,3 +104,14 @@ To start a Jupyter server, run:
 
 This will create a server process and open a browser tab to the Jupyter
 dashboard.
+
+# Interesting links
+
+- [Very good playlist explaining the basic idea of deep networks and the math](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Youtube channel covering many topics](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Site with many interesting articles](https://towardsdatascience.com/)
+- [Very cool guy](http://karpathy.github.io/)
+
+And of course:
+
+- [What most of today's presentation is based on](https://www.tensorflow.org/tutorials)
