@@ -109,6 +109,7 @@ dashboard.
 
 - [Very good playlist explaining the basic idea of deep networks and the math](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Youtube channel covering many topics](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Video that shows what a CNN "sees"](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 - [Site with many interesting articles](https://towardsdatascience.com/)
 - [Very cool guy](http://karpathy.github.io/)
 
